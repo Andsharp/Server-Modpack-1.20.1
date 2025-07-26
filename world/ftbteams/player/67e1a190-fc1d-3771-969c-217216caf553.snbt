@@ -1,0 +1,17 @@
+{
+	id: "67e1a190-fc1d-3771-969c-217216caf553"
+	type: "player"
+	player_name: "Andsharp"
+	ranks: {
+		67e1a190-fc1d-3771-969c-217216caf553: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Andsharp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

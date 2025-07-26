@@ -1,0 +1,17 @@
+{
+	id: "6bdae331-7a34-3bac-9157-d462f513295b"
+	type: "player"
+	player_name: "Sali"
+	ranks: {
+		6bdae331-7a34-3bac-9157-d462f513295b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sali"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5994FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

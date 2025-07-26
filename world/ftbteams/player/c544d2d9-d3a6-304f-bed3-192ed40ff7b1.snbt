@@ -1,0 +1,17 @@
+{
+	id: "c544d2d9-d3a6-304f-bed3-192ed40ff7b1"
+	type: "player"
+	player_name: "Zuki_12"
+	ranks: {
+		c544d2d9-d3a6-304f-bed3-192ed40ff7b1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Zuki_12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "a25699af-ad03-3714-8f4a-2fa1fa4655c5"
+	type: "player"
+	player_name: "Pyre"
+	ranks: {
+		a25699af-ad03-3714-8f4a-2fa1fa4655c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pyre"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

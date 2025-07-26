@@ -1,0 +1,17 @@
+{
+	id: "9792e412-1260-3f79-be76-e15625b99b6e"
+	type: "player"
+	player_name: "Luisoggm"
+	ranks: {
+		9792e412-1260-3f79-be76-e15625b99b6e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Luisoggm"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

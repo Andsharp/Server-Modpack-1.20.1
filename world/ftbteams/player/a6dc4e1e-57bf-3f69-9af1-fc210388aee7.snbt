@@ -1,0 +1,17 @@
+{
+	id: "a6dc4e1e-57bf-3f69-9af1-fc210388aee7"
+	type: "player"
+	player_name: "Ezezsche"
+	ranks: {
+		a6dc4e1e-57bf-3f69-9af1-fc210388aee7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ezezsche"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DF59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
