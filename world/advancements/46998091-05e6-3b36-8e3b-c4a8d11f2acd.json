@@ -262,12 +262,16 @@
       "minecraft:old_growth_pine_taiga": "2025-07-20 18:30:06 -0300",
       "minecraft:taiga": "2025-07-20 20:50:52 -0300",
       "minecraft:sunflower_plains": "2025-07-20 22:54:18 -0300",
+      "minecraft:birch_forest": "2025-07-27 16:57:14 -0300",
       "minecraft:beach": "2025-07-20 23:27:24 -0300",
+      "minecraft:dark_forest": "2025-07-27 16:55:39 -0300",
       "minecraft:river": "2025-07-20 22:12:15 -0300",
       "minecraft:stony_shore": "2025-07-20 23:19:00 -0300",
       "minecraft:dripstone_caves": "2025-07-20 20:40:43 -0300",
       "minecraft:forest": "2025-07-20 22:39:49 -0300",
+      "minecraft:ocean": "2025-07-27 17:10:09 -0300",
       "minecraft:flower_forest": "2025-07-20 22:55:05 -0300",
+      "minecraft:old_growth_birch_forest": "2025-07-27 16:54:48 -0300",
       "minecraft:meadow": "2025-07-20 21:52:42 -0300",
       "minecraft:savanna": "2025-07-20 23:13:26 -0300",
       "minecraft:plains": "2025-07-20 22:30:30 -0300"
@@ -294,11 +298,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-07-27 17:21:48 -0300",
+      "rocky_shrubland": "2025-07-27 17:22:20 -0300",
       "scrubland": "2025-07-25 20:10:12 -0300",
       "highland": "2025-07-20 22:12:33 -0300",
       "maple_woods": "2025-07-20 20:28:09 -0300",
+      "overgrown_greens": "2025-07-27 16:54:06 -0300",
       "coniferous_forest": "2025-07-20 23:08:02 -0300",
+      "redwood_forest": "2025-07-27 15:27:52 -0300",
       "aspen_glade": "2025-07-20 22:31:54 -0300",
+      "dune_beach": "2025-07-27 17:10:05 -0300",
       "fir_clearing": "2025-07-20 23:07:57 -0300",
       "pumpkin_patch": "2025-07-20 22:25:19 -0300",
       "prairie": "2025-07-20 22:49:52 -0300",
@@ -431,12 +440,16 @@
       "cooked_mutton": "2025-07-20 23:27:14 -0300",
       "sweet_berries": "2025-07-20 22:08:37 -0300",
       "cooked_beef": "2025-07-25 15:20:39 -0300",
+      "baked_potato": "2025-07-27 15:25:54 -0300",
       "porkchop": "2025-07-20 23:41:42 -0300",
       "apple": "2025-07-21 00:01:30 -0300",
+      "mutton": "2025-07-27 17:10:41 -0300",
       "bread": "2025-07-20 22:34:38 -0300",
+      "golden_apple": "2025-07-27 15:50:41 -0300",
       "rotten_flesh": "2025-07-20 21:27:46 -0300",
       "suspicious_stew": "2025-07-20 21:48:08 -0300",
       "cooked_chicken": "2025-07-25 15:09:35 -0300",
+      "enchanted_golden_apple": "2025-07-27 16:52:18 -0300",
       "carrot": "2025-07-20 22:51:08 -0300"
     },
     "done": false
@@ -491,21 +504,69 @@
     },
     "done": false
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-25 21:41:58 -0300"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-07-25 21:31:11 -0300"
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-25 21:41:58 -0300"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tame_elephant": {
     "criteria": {
       "tame": "2025-07-25 21:41:58 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/elephant_swag": {
+    "criteria": {
+      "ex": "2025-07-27 14:54:35 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-27 15:05:22 -0300"
+    },
+    "done": true
+  },
+  "thinair:soul": {
+    "criteria": {
+      "bad_air": "2025-07-27 15:27:19 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-27 15:28:55 -0300"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-27 15:28:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-27 15:32:36 -0300"
+    },
+    "done": true
+  },
+  "thinair:lantern": {
+    "criteria": {
+      "place": "2025-07-27 15:42:55 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-07-27 17:06:51 -0300"
     },
     "done": true
   },
