@@ -2,9 +2,7 @@
 	id: "a6dc4e1e-57bf-3f69-9af1-fc210388aee7"
 	type: "player"
 	player_name: "Ezezsche"
-	ranks: {
-		a6dc4e1e-57bf-3f69-9af1-fc210388aee7: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Ezezsche"
 		"ftbteams:description": ""

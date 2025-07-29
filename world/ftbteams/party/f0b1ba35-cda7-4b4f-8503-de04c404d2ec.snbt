@@ -1,0 +1,20 @@
+{
+	id: "f0b1ba35-cda7-4b4f-8503-de04c404d2ec"
+	type: "party"
+	owner: "a6dc4e1e-57bf-3f69-9af1-fc210388aee7"
+	ranks: {
+		a6dc4e1e-57bf-3f69-9af1-fc210388aee7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Team God"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF2DD2"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1753815791703L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ezezsche\"}]}" }
+		{ from: "a6dc4e1e-57bf-3f69-9af1-fc210388aee7", date: 1753815894401L, text: "{\"text\":\"E\"}" }
+	]
+	extra: { }
+}
