@@ -441,6 +441,7 @@
       "cooked_beef": "2025-07-21 01:09:00 -0500",
       "baked_potato": "2025-07-21 01:27:06 -0500",
       "porkchop": "2025-07-20 20:32:57 -0500",
+      "apple": "2025-08-01 12:51:26 -0500",
       "spider_eye": "2025-07-20 19:10:10 -0500",
       "potato": "2025-07-20 18:52:33 -0500",
       "bread": "2025-07-29 18:38:44 -0500",
@@ -649,15 +650,21 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-07-31 22:31:53 -0500"
+    },
+    "done": true
+  },
   "thinair:soul": {
     "criteria": {
       "bad_air": "2025-07-31 23:46:58 -0500"
     },
     "done": true
   },
-  "ad_astra:astronaut": {
+  "mekanism:metallurgic_infuser": {
     "criteria": {
-      "has_astronaut": "2025-07-31 22:31:53 -0500"
+      "metallurgic_infuser": "2025-08-01 13:17:29 -0500"
     },
     "done": true
   },
