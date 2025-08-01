@@ -8,10 +8,10 @@
 	properties: {
 		"ftbteams:display_name": "DangerCreeper17"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF59D0"
+		"ftbteams:color": "#00FF00"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [ ]
+	message_history: [{ from: "46998091-05e6-3b36-8e3b-c4a8d11f2acd", date: 1753815902680L, text: "{\"text\":\"ola\"}" }]
 	extra: { }
 }
