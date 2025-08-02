@@ -581,27 +581,23 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-29 17:58:00 -0300"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-07-29 15:44:02 -0300"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-29 18:09:26 -0300"
+      "minecraft:cow": "2025-08-01 18:06:24 -0300",
+      "minecraft:pig": "2025-07-29 16:48:57 -0300",
+      "minecraft:sheep": "2025-07-29 16:45:19 -0300"
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "entered_nether": "2025-07-29 18:09:23 -0300"
+      "bred": "2025-07-29 16:45:19 -0300"
     },
     "done": true
   },
@@ -611,18 +607,23 @@
     },
     "done": true
   },
-  "betternether:enter_nether": {
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-29 17:58:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-29 18:09:23 -0300"
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "betternether:enter_nether": {
     "criteria": {
-      "minecraft:pig": "2025-07-29 16:48:57 -0300",
-      "minecraft:sheep": "2025-07-29 16:45:19 -0300"
+      "entered_nether": "2025-07-29 18:09:23 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -630,9 +631,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "bred": "2025-07-29 16:45:19 -0300"
+      "minecraft:nether_wastes": "2025-07-29 18:09:26 -0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-01 18:30:31 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-08-01 18:37:25 -0300"
     },
     "done": true
   },
