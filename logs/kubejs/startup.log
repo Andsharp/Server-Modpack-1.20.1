@@ -1,8 +1,8 @@
-[19:54:35] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[19:54:35] [INIT] Loaded plugins:
-[19:54:35] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
-[19:54:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[19:54:35] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[19:54:44] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[19:54:44] [INFO] Loaded script startup_scripts:example.js in 0.226 s
-[19:54:44] [INFO] Loaded 1/1 KubeJS startup scripts in 8.16 s with 0 errors and 0 warnings
+[23:49:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:49:33] [INIT] Loaded plugins:
+[23:49:33] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[23:49:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:49:33] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[23:49:34] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[23:49:34] [INFO] Loaded script startup_scripts:example.js in 0.122 s
+[23:49:34] [INFO] Loaded 1/1 KubeJS startup scripts in 0.891 s with 0 errors and 0 warnings
