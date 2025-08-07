@@ -1,11 +1,11 @@
-[18:54:38] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:54:38] [INIT] Loaded plugins:
-[18:54:38] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
-[18:54:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:54:38] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[18:54:38] [INFO] example.js#9: Mekanism tag fix! (Loaded server scripts)
-[18:54:38] [INFO] Loaded script server_scripts:example.js in 0.007 s
-[18:54:38] [INFO] Loaded 1/1 KubeJS server scripts in 0.02 s with 0 errors and 0 warnings
-[18:54:38] [INFO] Scripts loaded
-[18:54:40] [INFO] [minecraft:item] Found 2070 tags, added 1 objects, removed 0 objects
-[18:54:48] [INFO] Server resource reload complete!
+[19:54:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:54:57] [INIT] Loaded plugins:
+[19:54:57] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[19:54:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:54:57] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[19:54:57] [INFO] example.js#9: Mekanism tag fix! (Loaded server scripts)
+[19:54:57] [INFO] Loaded script server_scripts:example.js in 0.005 s
+[19:54:57] [INFO] Loaded 1/1 KubeJS server scripts in 0.018 s with 0 errors and 0 warnings
+[19:54:57] [INFO] Scripts loaded
+[19:54:59] [INFO] [minecraft:item] Found 2070 tags, added 1 objects, removed 0 objects
+[19:55:06] [INFO] Server resource reload complete!

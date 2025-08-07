@@ -661,6 +661,12 @@
     },
     "done": false
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-08-01 20:57:15 -0300"
+    },
+    "done": true
+  },
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2025-08-01 21:47:11 -0300"
@@ -670,12 +676,6 @@
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2025-08-01 21:52:17 -0300"
-    },
-    "done": true
-  },
-  "ad_astra:tier_1_rocket": {
-    "criteria": {
-      "has_tier_1_rocket": "2025-08-01 20:57:15 -0300"
     },
     "done": true
   },
