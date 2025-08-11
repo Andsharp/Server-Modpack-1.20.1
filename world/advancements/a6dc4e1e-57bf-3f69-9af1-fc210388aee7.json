@@ -334,7 +334,8 @@
       "bread": "2025-07-29 21:29:45 -0300",
       "rotten_flesh": "2025-07-27 17:45:26 -0300",
       "melon_slice": "2025-07-29 15:14:16 -0300",
-      "cooked_chicken": "2025-07-21 03:18:50 -0300"
+      "cooked_chicken": "2025-07-21 03:18:50 -0300",
+      "carrot": "2025-08-10 15:44:29 -0300"
     },
     "done": false
   },
@@ -677,6 +678,42 @@
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2025-08-01 21:52:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-10 15:29:08 -0300"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-08-10 17:23:53 -0300"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-08-10 17:31:06 -0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-08-10 17:31:13 -0300"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-08-10 17:37:35 -0300"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-08-10 17:37:40 -0300"
     },
     "done": true
   },
